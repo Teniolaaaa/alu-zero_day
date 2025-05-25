@@ -1,1 +1,1 @@
-This directory contains Git project tasks
+# Git Directory
