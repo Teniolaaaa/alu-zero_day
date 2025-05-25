@@ -1,1 +1,1 @@
-This is the README inside the git directory.
+This directory contains Git project tasks
